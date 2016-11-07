@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <title>Leaflet.timeline</title>
+    <script type="text/javascript" src="moment.js"></script>
+    <link href="leaflet.css" rel="stylesheet">
+    <link href="leaflet.timeline.css" rel="stylesheet">
+    <script src="leaflet.js"></script>
+    <script src="leaflet.timeline.js"></script>
+    <script src='//d3js.org/d3.v3.min.js' charset='utf-8'></script>
+
+    <style>
+      @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+      html, body{
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", sans-serif;
+      }
+      #info{
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 20vw;
+        padding: 1em;
+      }
+      #map{
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      .leaflet-bottom.leaflet-left{
+        width: 100%;
+      }
+      .leaflet-control-container .leaflet-timeline-controls{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script>
+    var map = L.map('map').setView([-4, 112], 5);
+
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+      // eqfeed_callback is called once the earthquake geojsonp file below loads
+      function eqfeed_callback(data){
+        var getInterval = function(data) {
+          // earthquake data only has a time, so we'll use that as a "start"
+          // and the "end" will be that + some value based on magnitude
+          // 18000000 = 30 minutes, so a quake of magnitude 5 would show on the
+          // map for 150 minutes or 2.5 hours
+          return {
+            start: data.properties.year,
+            end:   data.properties.year  * 1800000
+          };
+        };
+        var timelineControl = L.timelineSliderControl({
+          formatOutput: function(year) {
+            // console.log(new Date(date).getFullYear());
+            return new Date(date).getYear().toString();
+          }
+        });
+        var timeline = L.timeline(data, {
+          getInterval: getInterval,
+          pointToLayer: function(data, latlng){
+            var year1 = data.properties.year;
+            console.log(
+              new Date(year1.toString()).getFullYear())
+            var tahun = new Date(year1).getFullYear();
+            return L.circleMarker(latlng, {
+              stroke : false,
+              fillOpacity : 1,
+              radius: 5,
+              fillColor: "black",
+            }).bindPopup(data.properties.jurusan);
+          }
+        });
+        // console.log(date)
+        timelineControl.addTo(map);
+        timelineControl.addTimelines(timeline);
+        timeline.addTo(map);
+      }
+    </script>
+    <script src="mhstimestamps.geojson"></script>
+    </script>
+  </body>
+</html>
