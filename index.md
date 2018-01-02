@@ -2,22 +2,19 @@
 layout: page
 ---
 
-## Table of Contents
+## Welkam
 
-This site is meant to serve as a directory for the amazing content the
-community has created around the Data Science Specialization. If you are
-interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
+Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 
-1. [The Data Scientist’s Toolbox](/toolbox/)
-2. [R Programming](/rprog/)
-3. [Getting and Cleaning Data](/getclean/)
-4. [Exploratory Data Analysis](/eda/)
-5. [Reproducible Research](/repres/)
-6. [Statistical Inference](/statinf/)
-7. [Regression Models](/regmod/)
-8. [Practical Machine Learning](/pml/)
-9. [Developing Data Products](/ddp/)
-10. [Capstone](/capstone/)
+### Terakhir saya tulis 
 
-- [Other Resources](/other/)
-- [Curated Pages](/curated/)
+1. [Sumber Jenon](/singgah/sumberjenon/)
+
+
+### Beberapa Tulisan
+
+1. [Singgah](/singgah/)
+2. [Semua tentang Unix system](/unix/)
+3. [Proses belajar Statistik](/ngangsukaweruh/)
+4. [Portofolio](/portofolio/)
+5. [Visualisasi](/visualisasi)
