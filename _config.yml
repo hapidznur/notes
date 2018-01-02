@@ -1,11 +1,12 @@
- github: [metadata]
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
- theme: minima 
- gfm_quirks: paragraph_end
+# Site settings
+title: Data Science Specialization
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username:  DataScienceSpecialization
 
-theme: jekyll-theme-architect
+# Build settings
+markdown: kramdown
+permalink: pretty
