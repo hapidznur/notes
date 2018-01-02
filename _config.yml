@@ -10,3 +10,4 @@ github_username:  hapidznur
 # Build settings
 markdown: kramdown
 permalink: pretty
+include: ['_pages']

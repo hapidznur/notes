@@ -1,4 +1,5 @@
 ---
+title: "Singgah"
 layout: page
 permalink: /singgah/
 ---
