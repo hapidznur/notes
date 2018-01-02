@@ -1,6 +1,6 @@
 ---
 title: "Capstone"
-permalink: /capstone/
+permalink: /Unix/capstone/
 layout: page
 ---
 ## Reference Material
