@@ -1,11 +1,11 @@
 # Site settings
-title: Data Science Specialization
+title: Log Blog
 email:
-description: Community Site
+description: Personal Blog
 baseurl:
 url:
-twitter_username:
-github_username:  DataScienceSpecialization
+twitter_username: hapidznur
+github_username:  hapidznur
 
 # Build settings
 markdown: kramdown
