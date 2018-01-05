@@ -1,3 +1,6 @@
 /node_modules
 Gemfile
 Gemfile.lock
+jekyll-theme-architect.gemspec
+_site
+.sass-cache
