@@ -14,7 +14,7 @@ Setelah dari tempat parkir kemudian dilanjutkan berjalan kaki 5 menit menuju kol
 Jika tidak dapat berenang seperti saya terdapat penyewaaan ban seharga 6000. Favorit saya adalah tiduran diatas ban dan menenangkan diri. Selain itu terdapat kantin sederhana yang menjual makanan ringan dan minuman dengan harga yang murah. Tempat yang asik buat ngopi dan menikmati hidup. Saran saya sebelum berendam melakukan pemanasan. Airnya yang masih jernih dan alam sekitar yang berupa bukit menambah dingin air dan suasananya. 
 
 Selamat berlibur. 
-Malang, 1 Januari 2018 
+<br/>Malang, 1 Januari 2018 
 
 
 [landscape]:https://farm5.staticflickr.com/4639/25576660408_9e71ba0bb7_k_d.jpg
