@@ -6,6 +6,7 @@ baseurl:
 url:
 twitter_username: hapidznur
 github_username:  hapidznur
+theme: jekyll-theme-architect
 
 # Build settings
 markdown: kramdown
