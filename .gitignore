@@ -4,3 +4,4 @@ Gemfile.lock
 jekyll-theme-architect.gemspec
 _site
 .sass-cache
+script
