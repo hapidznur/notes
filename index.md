@@ -10,7 +10,7 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 
 1. [Sumber Jenon](/singgah/sumberjenon/)
 2. [Install docker di fedora 25](/unix/install_docker/)
-
+3. [Menjalankan docker dengan user](/unix/dont-let-non-root-user-run-docker/)
 ### Beberapa Tulisan
 
 1. [Singgah](/singgah/)
