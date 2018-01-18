@@ -5,3 +5,4 @@ jekyll-theme-architect.gemspec
 _site
 .sass-cache
 script
+/_layout
