@@ -1,6 +1,6 @@
 ---
-layout:page
-title: Install Frappe and ERPNext manual
+layout: page
+title: 'Install Frappe and ERPNext manual'
 permalink: /learn/install_erpnext/
 ---
 
@@ -58,7 +58,8 @@ $ bench start
 
 ERPNext sudah bisa digunakan.
 
-
+[1]:https://erpnext.com/
+[2]:https://frappe.io/
 
 
 
