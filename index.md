@@ -12,6 +12,7 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 2. [Install docker di fedora 25](/unix/install_docker/)
 3. [Menjalankan docker dengan user](/unix/dont-let-non-root-user-run-docker/)
 4. [Install ERPNEXT](/learn/install_erpnext/)
+5. [ERPNext Meetup Chapter Indonesia](/Singgah/ERPNextMeetup/)
 
 ### Beberapa Tulisan
 
