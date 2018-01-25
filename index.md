@@ -13,7 +13,7 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 3. [Menjalankan docker dengan user](/unix/dont-let-non-root-user-run-docker/)
 4. [Install ERPNEXT](/learn/install_erpnext/)
 5. [ERPNext Meetup Chapter Indonesia](/Singgah/ERPNextMeetup/)
-
+6. [VIM Cheatsheat](/learn/vim_cheatsheat/)
 ### Beberapa Tulisan
 
 1. [Singgah](/singgah/)
