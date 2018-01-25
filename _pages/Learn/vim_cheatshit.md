@@ -13,28 +13,28 @@ Ini hanya sedikt dari perintah vim yang terangkum dan sering digunakan. Mungkin 
 ### VIM Cheatsheat
 
 #### Navigasi
-`j`: `pindah kursor kebawah`
-`k`: `pindah kursor keatas`
-`l`: `pindah kursor ke kiri`
-`h`: `pindah kursor ke kanan`
-`w`: `maju satu kata diawal kata(pada vim karakter dihitung sebagai 1 kata)`
-`W`: `sama seperti **w** tapi karakter tidak dihitung)`
-`e`: `maju satu kata diakhir kata`
-`E`: `seperti **e** tapi karakter tidak dihitung`
-`b`: `mundur 1 kata`
-`B`: `seperti **b**`
+`j`: `pindah kursor kebawah`  
+`k`: `pindah kursor keatas`  
+`l`: `pindah kursor ke kiri`  
+`h`: `pindah kursor ke kanan`  
+`w`: `maju satu kata diawal kata(pada vim karakter dihitung sebagai 1 kata)`  
+`W`: `sama seperti **w** tapi karakter tidak dihitung)`  
+`e`: `maju satu kata diakhir kata`  
+`E`: `seperti **e** tapi karakter tidak dihitung`  
+`b`: `mundur 1 kata`  
+`B`: `seperti **b**`  
 `$`: `pindah ke akhir baris`
-`0(zero)`: `pindah ke awal karakter baris`
-`^`: `pindah ke awal yang diawali spasi`
-`esc`: `kembali ke mode command`
+`0(zero)`: `pindah ke awal karakter baris`  
+`^`: `pindah ke awal yang diawali spasi`  
+`esc`: `kembali ke mode command`  
 
 #### Menulis
-`i`: `masuk ke mode insert setelah karakter`
-`I`: `masuk mode insert di awal baris`
-`a`: `masuk mode insert sebelum karakter`
+`i`: `masuk ke mode insert setelah karakter`  
+`I`: `masuk mode insert di awal baris`  
+`a`: `masuk mode insert sebelum karakter`  
 
-#### Copy paste
-`y`: `perintah copy`
-`p`: `paste`
-`d`: `cut atau delete`
+#### Copy paste 
+`y`: `perintah copy`  
+`p`: `paste`  
+`d`: `cut atau delete`  
 

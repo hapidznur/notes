@@ -21,3 +21,25 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 3. [Proses belajar Statistik](/ngangsukaweruh/)
 4. [Karya](/karya/)
 5. [Visualisasi](/visualisasi/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="quote">
+	<div class="inner">
+		<div id="blockquote">
+		    “Aku adalah kumpulan masa lalu”
+		</div>
+	</div>
+</div>
