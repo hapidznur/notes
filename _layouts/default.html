@@ -6,55 +6,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/custome.css'}}" type="text/css" media="screen">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+  <link rel="stylesheet" href="{{ '/assets/css/custome.css'}}" type="text/css" media="screen">
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
 {% seo %}
-  </head>
+</head>
 
-  <body>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-        {% endif %}
-        {% if site.github.is_user_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
-      </div>
-    </header>
-
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          {{ content }}
-        </section>
-
-        <aside id="sidebar">
-          Note
-        </aside>
-      </div>
+<body>
+  <header>
+    <div class="inner">
+      <a href="{{ '/' | absolute_url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      </a>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+      {% endif %}
+      {% if site.github.is_user_page %}
+        <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
+      {% endif %}
     </div>
-    <!--
-    <footer>      <div id="footer-id">
-        <div id="profile">
-          <div id="akun"> 
-            <ul>
-              <li><a href="https://www.linkedin.com/in/hapidznur">Muhammad Nur </a></li>
-              <li><a href="https://www.github.com/hapidznur">hapidznur</a></li>
-              <li><a href="https://twitter.com/hapidznur"> Hafid Hidayatullah</a></li>
-            </ul>
-          </div>
+  </header>
+
+  <div id="content-wrapper">
+    <div class="inner clearfix">
+      <section id="main-content">
+        {{ content }}
+      </section>
+
+      <aside id="sidebar">
+        Note
+      </aside>
+    </div>
+  </div>
+  <!--
+  <footer>      <div id="footer-id">
+      <div id="profile">
+        <div id="akun"> 
+          <ul>
+            <li><a href="https://www.linkedin.com/in/hapidznur">Muhammad Nur </a></li>
+            <li><a href="https://www.github.com/hapidznur">hapidznur</a></li>
+            <li><a href="https://twitter.com/hapidznur"> Hafid Hidayatullah</a></li>
+          </ul>
         </div>
       </div>
-    </footer>-->
+    </div>
+  </footer>-->
+  <div id="quote">
+    <div class="inner">
+      <div id="blockquote">
+        “Aku adalah kumpulan masa lalu”
+        </div>
+      </div>
+    </div>
     <footer>
       <div class="inner">Copyright by hapidznur 2017
         <div id="studio">LangitAngin</div>
