@@ -1,0 +1,21 @@
+footer{
+  background: #3179CD;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 18px;
+}
+
+#studio{
+  margin-right:210px;
+  float:right;
+}
+@media only screen and (max-width: 767px) {
+  footer{
+    font-size: 0.8em;
+  }
+  #studio{
+    margin-right:0;  
+  }
+  ol{
+    margin-left:10px;
+  }
+}
