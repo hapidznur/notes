@@ -14,6 +14,7 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 4. [Install ERPNEXT](/learn/install_erpnext/)
 5. [ERPNext Meetup Chapter Indonesia](/Singgah/ERPNextMeetup/)
 6. [VIM Cheatsheat](/learn/vim_cheatsheat/)
+7. [Error bench update](/unix/error_bench/)
 ### Beberapa Tulisan
 
 1. [Singgah](/singgah/)
