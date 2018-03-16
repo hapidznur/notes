@@ -2,7 +2,7 @@
 ---
 title: "ERPNext Meetup Developer"
 layout: page
-permalink: /Singgah/ERPNextMeetup/
+permalink: /singgah/ERPNextMeetup
 ---
 
 ## ERPNext Meetup Developer with Rushab Mehta and Saurab Palande
