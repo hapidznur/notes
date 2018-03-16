@@ -1,71 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-  <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-  <link rel="stylesheet" href="{{ '/assets/css/custome.css'}}" type="text/css" media="screen">
-  <!--[if lt IE 9]>
-  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
 
-{% seo %}
+  <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
+  <link rel="canonical" href="{{ site.url }}" />
 </head>
-
 <body>
-  <header>
-    <div class="inner">
-      <a href="{{ '/' | absolute_url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-      {% endif %}
-      {% if site.github.is_user_page %}
-        <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
-      {% endif %}
+  <article>
+   <div class="container">
+    <h1><a href="./">{{ site.tag_text }}</a></h1>
+    {{ content }}
     </div>
-  </header>
-
-  <div id="content-wrapper">
-    <div class="inner clearfix">
-      <section id="main-content">
-        {{ content }}
-      </section>
-
-    </div>
-  </div>
-  <!--
-  <footer>      <div id="footer-id">
-      <div id="profile">
-        <div id="akun"> 
-          <ul>
-            <li><a href="https://www.linkedin.com/in/hapidznur">Muhammad Nur </a></li>
-            <li><a href="https://www.github.com/hapidznur">hapidznur</a></li>
-            <li><a href="https://twitter.com/hapidznur"> Hafid Hidayatullah</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </footer>-->
-    <footer>
-      <div class="inner">Copyright by hapidznur 2017
-        <div id="studio">LangitAngin</div>
-      </div>
-    </footer>
-  {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-  </body>
+  </article>
+<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+</body>
 </html>

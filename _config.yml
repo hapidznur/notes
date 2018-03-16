@@ -1,14 +1,13 @@
 # Site settings
-title: Log Blog
-email:
-description: Personal Blog
-baseurl:
-url:
-twitter_username: hapidznur
-github_username:  hapidznur
-theme: jekyll-theme-architect
+title: Good Clean Read
+tag_text: Good Clean Read
+description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 include: ['_pages']
+exclude: ["README.md"]
