@@ -7,13 +7,13 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 ### Terakhir saya tulis 
 
 1. [Sumber Jenon](/singgah/sumberjenon)
-2. [Install docker di fedora 25](/unix/install_docker)
+2. [Install docker di fedora 25](/unix/install-docker)
 3. [Menjalankan docker dengan user](/unix/dont-let-non-root-user-run-docker)
-4. [Install ERPNEXT](/learn/install_erpnext)
+4. [Install ERPNEXT](/learn/install-erpnext)
 5. [ERPNext Meetup Chapter Indonesia](/singgah/ERPNextMeetup)
-6. [VIM Cheatsheat](/learn/vim_cheatsheat)
-7. [Error bench update](/unix/error_bench)
-8. [VIM konfigurasi](/ngangsukaweruh/vim_config)
+6. [VIM Cheatsheat](/learn/vim-cheatsheat)
+7. [Error bench update](/unix/error-bench)
+8. [VIM konfigurasi](/ngangsukaweruh/vim-config)
 
 ### Beberapa Tulisan
 
