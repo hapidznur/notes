@@ -3,8 +3,6 @@ title: "Pemandian Sumber Jenon"
 layout: post
 categories: singgah
 ---
-## Pemandian Sumber Jenon
-
 ![SumberJenon][landscape]
 
 Perjalanan kali ini saya mendamparkan untuk kedua kali nya di pemandian Sumber Jenon. Pemandian yang terletak di desa Gunungronggo kecamatan Tajinan. Untuk perjalanan sendiri sekitar 30 menit dari kota Malang ditempuh dengan sepeda motor. Untuk tiket masuknya sendiri cukup membayar parkir 5000 rupiah. 
