@@ -1,11 +1,9 @@
-
 ---
-title: "ERPNext Meetup Developer"
-layout: page
+title: "ERPNext Meetup Developer with Rushab Mehta and Saurab Palande"
+layout: post
 categories: singgah
 ---
 
-## ERPNext Meetup Developer with Rushab Mehta and Saurab Palande
 ![ERPNextMeetup][chapter1]
 Acara ERPNext yang diadakan oleh ERPNext Chapter Indonesia yang di inisiasi oleh beberapa orang yang sudah lama berkecimpung dunia persilatan cabang ERP khususnya kajian ERPNext :D. Untungnya acara ini didanai oleh sponsor(baca: kantor) jadi menghemat kantong yang sedang sekarat berat. Jadi semacam tugas belajar dari kantor. Acara ini mengundang CEO ERPNext [Rushab Mehta](https://github.com/rmehta) dan Frappe [Saurabh](https://github.com/saurabh6790) sehingga menarik apalagi Frappe ini termasuk framework yang ajaib dan <em>powerfull</em>.
 

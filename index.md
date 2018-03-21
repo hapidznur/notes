@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Welkam
-
 Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 
 ### Terakhir saya tulis 
