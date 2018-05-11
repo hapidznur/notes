@@ -1,9 +1,10 @@
 ---
 layout: post
-categories: unix
 title : "Don't let non-root user run docker"
+categories: journal
+tags: [documentation, docker]
+author: hapidznur
 ---
-## Why we don't let non-root user run docker in CentOS, Fedora, RHEL
 
 Awalnya cuma iseng kok gak bisa ya run docker dari user saya. Padahal sudah ditambahkan di group docker dan sudoers. Kemudian seperti biasanya ngangsu kaweruh pada simbah google kemudian bertemu dengan sensei[askbuntu.com][1] yang punya masalah persis seperti saya. Kemudian ada bacaan menarik dari [projectatomic][2]. Lalu baca-baca di beberapa komentar yang dibawahnya ternyata dari docker sendiri telah memberikan caranya, bisa dibaca di[sini][3]. Tapi ada beberapa hal yang menarik untuk dibahas sebenarnya. 
 

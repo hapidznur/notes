@@ -1,7 +1,9 @@
 ---
 layout: post
-categories: unix
+categories: erpnext
 title: "Error Packages Requests di Bench Frappe"
+author: hapidznur
+tags: [erpnext,unix]
 ---
 
 Jadi gini perintah `bench update` pada Frappe agak menakutkan selain update kode <em>apps</em> juga update `bench` dan paket python yang dibutuhkan. Masalahnya paket tersebut tidak sesuai dengan kode lama. Sehingga terjadi masalah. Salah satu masalahnya adalah paket `requests` dari python terupdate. Berhubung ini paket utama dan jika terjadi masalah seluruh sistem akan terimbas dampaknya. 
