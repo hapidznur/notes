@@ -2,6 +2,8 @@
 layout: post
 categories: ngangsukaweruh
 title: 'Install Frappe and ERPNext manual'
+author: hapidznur
+tags: [erpnext]
 ---
 
 ## Install Frappe and ERPNext manual

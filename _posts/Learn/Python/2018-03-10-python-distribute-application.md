@@ -1,7 +1,7 @@
 ---
 title: "How to distribute Python Application"
 layout: post
-categories: ngangsukaweruh
+categories: python 
 ---
 
 ## How to Distribute Python Application

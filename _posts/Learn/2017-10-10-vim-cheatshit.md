@@ -2,9 +2,9 @@
 title: "VIM Cheatshit(sheat)"
 layout: post
 categories: ngangsukaweruh
+tags: [vim,editor]
+author: hapidznur
 ---
-
-## VIM Cheat(shit)
 
 Sebelumnya sudah mencoba vim sebelumnya. Tapi belum pernah yang sepenuhnya move on memang. Tapi minimal sedang mencoba. Kelebihan vim adalah enteng sebenarnya :D. Meski akan bertambah berat dengan berjalan waktu karena perubahan file dan plugin. Namun cukup tidak membebani RAM dan Processor.  
 
