@@ -4,7 +4,6 @@ title: "Install Brimir on Centos"
 author: "hapidznur"
 categories: unix
 tags: [documentation,centos,brimir]
-image: -
 ---
 
 
