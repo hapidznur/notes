@@ -17,7 +17,8 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 9. [Install Brimir](/unix/brimir-on-centos-7)
 10. [Phusion Passenger](/unix/Install-Phusion-Passenger)
 11. [Python Distribute](/python/python-distribute-application)
-
+12. [Frontend Roadmap](/ngangsukaweruh/roadmap-frontend)
+13. [Semantic HTML](/ngangsukaweruh/write-semantic-html)
 ### Beberapa Tulisan
 
 1. [Singgah](/singgah)
