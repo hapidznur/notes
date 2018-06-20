@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "HOME"
 ---
 
 Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
@@ -19,6 +20,7 @@ Selamat datang di blog ini. Kritik dan saran bisa ke sini. Terima kasih.
 11. [Python Distribute](/python/python-distribute-application)
 12. [Frontend Roadmap](/ngangsukaweruh/roadmap-frontend)
 13. [Semantic HTML](/ngangsukaweruh/write-semantic-html)
+
 ### Beberapa Tulisan
 
 1. [Singgah](/singgah)
