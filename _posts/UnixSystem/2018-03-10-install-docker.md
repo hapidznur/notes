@@ -1,9 +1,9 @@
 ---
 title: 'Install Docker di Fedora 25'
 layout: post
+categories: unix
 tags: [unix,documentation]
 author: hapidznur
-categories: unix
 ---
 
 Untuk lebih mengenal docker silahkan kunjungi situs resmi [docker][docker].

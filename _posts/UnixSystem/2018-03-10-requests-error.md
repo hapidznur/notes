@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: erpnext
+category: python 
 title: "Error Packages Requests di Bench Frappe"
 author: hapidznur
 tags: [erpnext,unix]
