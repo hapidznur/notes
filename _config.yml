@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Journey
 tagline:             'A Jar of Journey'
 description:         'A nganu Blog'
-url:                 'hapidznur.github.io'
-baseurl:             'hapidznur.github.io'
+url:                 ''
+baseurl:             ''
 paginate:            5
 
 # About/contact
@@ -21,5 +21,5 @@ author:
 # Custom vars
 version:             1.0.0
 
-gems:
+plugins:
     [jekyll-paginate]
