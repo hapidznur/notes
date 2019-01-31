@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Lifelong Learning"
+author: "hapidznur"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg
