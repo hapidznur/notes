@@ -39,4 +39,4 @@ git commit -m "daftar pesanan makanan anak kantor"
 
 
 Pustaka:
-1. https://docs.google.com/presentation/d/1d_ZoCUZdABJJCH6wLeIeyw0ND2CEmRLQmc-XdzwM-KQ/edit#slide=id.g34d24d4cfd_0_51
+1. [Dloreno Presentation](https://docs.google.com/presentation/d/1d_ZoCUZdABJJCH6wLeIeyw0ND2CEmRLQmc-XdzwM-KQ/edit#slide=id.g34d24d4cfd_0_51)
