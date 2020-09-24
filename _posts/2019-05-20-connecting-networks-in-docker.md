@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Connecting container in multiple networks in docker"
-author: "hapidznur"
-categories: journal
-tags: [documentation,docker,working]
+author: hafid
+image: assets/images/13.jpg
+categories: [ tutorial ]
 ---
-
-
 
 ## Goal
 

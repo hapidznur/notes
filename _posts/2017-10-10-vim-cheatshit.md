@@ -1,7 +1,7 @@
 ---
 title: "VIM Cheatshit(sheat)"
 layout: post
-category: ngangsukaweruh
+categories: [ngangsukaweruh]
 tags: [vim,editor]
 author: hafid
 image: assets/images/13.jpg

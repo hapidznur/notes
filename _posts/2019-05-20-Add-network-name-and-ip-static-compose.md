@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Add Network Name and IP Address to container in Compose"
-author: "hapidznur"
-categories: journal
-tags: [documentation,docker]
-image: spools.jpg
+author: hafid 
+image: assets/images/13.jpg
+categories: [ tutorial ]
 ---
 
 ## Compose

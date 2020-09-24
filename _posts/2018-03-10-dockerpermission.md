@@ -1,7 +1,7 @@
 ---
 layout: post
 title : "Don't let non-root user run docker"
-category: Journal
+categories:  [ Journal ]
 tags: [documentation, docker]
 author: hafid
 image: assets/images/13.jpg
