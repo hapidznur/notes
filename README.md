@@ -9,6 +9,7 @@ ID
 
 | Judul       | Link        |
 | ----------- | ----------- |
+| Rust dan systemd | https://github.com/hapidznur/notes/blob/master/id/2025-02-17-rust-and-systemd.md|
 | Orbstack |https://github.com/hapidznur/notes/blob/master/id/2023-05-14-orbstack.md|
 | Podman  |https://github.com/hapidznur/notes/blob/master/id/2020-10-07-podman.md|
 | Funtify config  |https://github.com/hapidznur/notes/blob/master/id/2020-09-25-funtify-read-config.md|
